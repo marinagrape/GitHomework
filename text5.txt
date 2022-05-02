@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 edksfksjflksjfdkl
 ksjljkkdjflksjfkjsdklfjdsjksldsksdlaks
+=======
+edksfksjflksjfdkl
+>>>>>>> beta
