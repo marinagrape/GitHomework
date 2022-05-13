@@ -2,10 +2,18 @@ jsjlkjclkjlkasjjskjcsa
 ajkjkjakjkjakajkjskajskk
 sjkljasksadkjlkdjaslkajlkaskaska
 ajkjkjakjkjakajkjskajskk
+<<<<<<< HEAD
 
 ooooooo
 content
 
 oooooooooooo
 llllllll
+
+new commit
+
 mmmmmmm
+beta
+first
+jjjj
+oooooooo
